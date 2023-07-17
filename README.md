@@ -9,10 +9,15 @@ Learnings and notes from MoonMath Study Group, this is a weekly study group base
 5. Double-click the recommended pkg file in the disk image to install additional components.
 6. Verify the successful installation by launching SageMath from your Applications folder.
 7. Open terminal to verify proper installation, once terminal is open run: `sage --version`
+8. Starting SageMath, simply type `sage` within terminal and press enter
+9. For further exploration checkout https://doc.sagemath.org/ 
 
 ## Using SageMath Notebooks 
 Open the command line (iterm) and run `sage --notebook`
 
 ## Using SageMath with Jupyter Notebook 
-1. Start up Jupyter Notebook - `jupyter notebook` from cli
+1. Start up Jupyter Notebook `jupyter notebook` from cli
 2. Select SageMath as the kernel for your notebook 
+
+# Resources for Study Group 
+- [Introduction to Finite Fields](https://youtube.com/playlist?list=PLcPzhUaCxlCiddOGuYdDbFlZhH8nwtR8D)
